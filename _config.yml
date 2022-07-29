@@ -1,6 +1,16 @@
 title: Himanshu Garg
 logo: /assets/img/Himanshu_Photo.png
-description: Data Scientist with experience of 6+ years, having good understanding of Statistical and Machine Learning techniques. Aspiring to utilize my strong prioritization skills and analytical ability to charter mutually beneficial growth.
+description:
+  <p align="center">
+  <br>
+  Data Scientist with experience of 6+ years, 
+  having good understanding of Statistical and 
+  Machine Learning techniques. Aspiring to 
+  utilize my strong prioritization skills 
+  and analytical ability to charter mutually 
+  beneficial growth.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
