@@ -1,7 +1,7 @@
 title: Himanshu Garg
 logo: /assets/img/Himanshu_Photo.png
 description:
-  <p align="center">
+  <td style="text-align:center;">
   <br>
   Data Scientist with experience of 6+ years, 
   having good understanding of Statistical and 
@@ -10,6 +10,6 @@ description:
   and analytical ability to charter mutually 
   beneficial growth.
   <br>
-  </p>
+  </td>
 
 theme: jekyll-theme-minimal
